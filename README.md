@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm SUMIT BADRI</h1>
-<h3 align="center">A passionate Full Stack web Developerh3>
-👋 Hi there! I'm SUMIT BADRI, A full Stack Web Developer with a passion for developing creative websites.
+<h1 align="center">Hi 👋, I'm Sumit Badri</h1>
+<h3 align="center">A passionate Full Stack Developer.</h3>
+👋 Hi there! I'm Sumit Badri, A full Stack Web Developer with a passion for developing creative websites.
 
 🚀 I love building and creating things, and I'm always looking for ways to innovate and improve. You can find my latest projects and contributions on my GitHub profile.
 <br/>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node JS,MongoDB and Express**
 
-- 💬 Ask me about **HTML**,**CSS**,**Javascript**,**React**,**Redux**,**Next.js**,**Mongoose**
+- 💬 Ask me about **HTML**,**CSS**,**Javascript**,**React**,**Redux**
 
 - 📫 How to reach me **sumitbadri2000@gmail.com**
 
@@ -19,7 +19,8 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=sumitbadri2000&label=Profile%20views&color=0e75b6&style=flat" alt="sumitbadri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitbadri2000&theme=onedark" alt="bhavnesh1811" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitbadri2000&theme=onedark" alt="sumitbadri" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
