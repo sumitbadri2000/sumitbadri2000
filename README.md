@@ -7,9 +7,9 @@
 
 <img width="400" align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="coding"/>
 
-- 🌱 I’m currently learning **Node JS,MongoDB and Express**
+- 🌱 I’m currently working **Node.js, MongoDB, Express, React.js and React Native**
 
-- 💬 Ask me about **HTML**,**CSS**,**Javascript**,**React**,**Redux**
+- 💬 Ask me about **HTML**,**CSS**,**Javascript**,**React.JS**,**Redux**,**React Native**
 
 - 📫 How to reach me **sumitbadri2000@gmail.com**
 
