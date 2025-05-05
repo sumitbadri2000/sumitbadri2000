@@ -12,8 +12,6 @@
 - 💬 Ask me about **HTML**,**CSS**,**Javascript**,**React.JS**,**Redux**,**React Native**
 
 - 📫 How to reach me **sumitbadri2000@gmail.com**
-
-- 📫 My Portfolio:-https://sumitbadri2000.github.io/
     
 <br/><br/><br/><br/>
 
